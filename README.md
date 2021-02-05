@@ -1,6 +1,5 @@
 # Prueba1_Topicos_B2_2020B
 
-# Calculadora_Topicos2020B
 
 # Prueba_B2_Topicos_Especiales_2020B
 Prueba de la materia de Tópicos Especiales 2020B de la Escuela Politécnica Nacional. Como finalidad crear una aplicacion movil con android studio. Con Registro, Login y Metodos Crud
