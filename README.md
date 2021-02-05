@@ -27,7 +27,7 @@ Agenda desarrollada con un IDE Android Studio , la aplicacion APK ya instalada e
 
 ## Descargar APK
 
-Para descargar la `APK` clic en el siguiente enlace [Calculadora de Jefferson y Mauricio](https://github.com/mauryrodriguez/Prueba1_Topicos_B2_2020B/raw/master/). :white_check_mark:
+Para descargar la `APK` clic en el siguiente enlace [Agenda de Jefferson y Mauricio](https://github.com/mauryrodriguez/Prueba1_Topicos_B2_2020B/raw/master/). :white_check_mark:
 
 ## Referencias Visuales
 
