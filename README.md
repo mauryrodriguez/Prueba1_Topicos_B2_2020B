@@ -29,7 +29,7 @@ Agenda desarrollada con un IDE Android Studio , la aplicacion APK ya instalada e
 Para descargar la `APK` clic en el siguiente enlace [Agenda de Jefferson y Mauricio](https://github.com/mauryrodriguez/Prueba1_Topicos_B2_2020B/raw/main/app-debug.apk). :white_check_mark:
 
 ## Pruebas del sistema (imagenes)
-<img src="../main/img/Authenticacion.jpe1.png" alt="My cool logo"/>
+<img src="../main/img/Authenticacion.jpe" alt="My cool logo"/>
 
 ## Referencias Visuales
 
