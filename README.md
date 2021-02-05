@@ -50,7 +50,7 @@ Para descargar la `APK` clic en el siguiente enlace [Agenda de Jefferson y Mauri
 <img src="../main/img/Registro.jpeg" alt="My cool logo"/>
 
 ## VIDEO EXPLICATIVO DE LA AGENDA
-Mira el video en `Youtube` clic en el siguiente enlace [youtube](). :white_check_mark:
+Mira el video en `Youtube` clic en el siguiente enlace [youtube](https://www.youtube.com/watch?v=nGMsQ71C2sM&feature=youtu.be). :white_check_mark:
 
 ## Referencias Visuales
 
